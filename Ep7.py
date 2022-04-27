@@ -4,4 +4,4 @@ print(name)
 
 x = int(input("ใส่ค่าของ x : "))
 y = int(input("ใส่ค่าของ y : "))
-print("x+y = " + str(x+y))
+print("x+y = " ,(x+y))
